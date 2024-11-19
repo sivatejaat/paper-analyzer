@@ -2,11 +2,19 @@ import os
 from flask import Flask, jsonify
 from utils.summarizer import summarize_text, summarize_text_in_chunks
 from utils.extractor import extract_text_from_pdf, extract_main_table
-from utils.logger import setup_logger
+# from utils.logger import setup_logger
 from config import PAPERS_PATH, SUMMARIES_PATH, TABLES_PATH
+import logging
 
 app = Flask(__name__)
-logger = setup_logger()
+# logger = setup_logger()
+
+logging.basicConfig(
+    level=logging.DEBUG,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+)
+logger = logging.getLogger("paper_analyzer")
+
 @app.route('/process_all', methods=['POST'])
 def process_all_papers():
     try:
@@ -39,7 +47,7 @@ def process_all_papers():
                         "table_path": table_path if table_path else "No table found"
                     })
                 except Exception as e:
-                    logger.error(f"Error processing {filename}: {str(e)}")
+                    logger.error(f"Error processing {filename}: {str(e)}")  # Correct usage
                     processed_papers.append({
                         "filename": filename,
                         "error": str(e)
@@ -47,8 +55,10 @@ def process_all_papers():
 
         return jsonify({"processed_papers": processed_papers}), 200
     except Exception as e:
-        logger.error(f"Critical error: {str(e)}")
+        logger.error(f"Critical error: {str(e)}")  # Correct usage
         return jsonify({"error": f"An error occurred: {str(e)}"}), 500
+
+
 
 if __name__ == "__main__":
     app.run(debug=True)

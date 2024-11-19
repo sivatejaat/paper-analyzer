@@ -1,0 +1,324 @@
+PMID: 39368806
+DOI: 10.1182/bloodadvances.2024013436
+URL: None
+
+PMID: 39367479
+DOI: 10.1093/jmcb/mjae041
+URL: None
+
+PMID: 39358557
+DOI: 10.1007/s00262-024-03824-0
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11447191&blobtype=pdf
+
+PMID: 39348688
+DOI: 10.1182/bloodadvances.2023011754
+URL: None
+
+PMID: 39348228
+DOI: 10.1080/21645515.2024.2408088
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11445887&blobtype=pdf
+
+PMID: 39341065
+DOI: 10.1016/j.yexmp.2024.104935
+URL: None
+
+PMID: 39335665
+DOI: 10.3390/biomedicines12092152
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11430664&blobtype=pdf
+
+PMID: 39327512
+DOI: 10.1038/s41565-024-01783-2
+URL: None
+
+PMID: 39323416
+DOI: 10.3324/haematol.2024.285304
+URL: None
+
+PMID: 39320922
+DOI: 10.1073/pnas.2418194121
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11459189&blobtype=pdf
+
+PMID: 39319495
+DOI: 10.1002/ijc.35156
+URL: None
+
+PMID: 39316769
+DOI: 10.1080/03007995.2024.2407963
+URL: None
+
+PMID: 39310770
+DOI: 10.1016/j.isci.2024.110701
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11416555&blobtype=pdf
+
+PMID: 39303415
+DOI: 10.1016/j.biomaterials.2024.122809
+URL: None
+
+PMID: 39293730
+DOI: 10.1016/j.neuroscience.2024.09.027
+URL: None
+
+PMID: 39291933
+DOI: 10.4049/jimmunol.2400035
+URL: None
+
+PMID: 39284421
+DOI: 10.1016/j.ijpharm.2024.124720
+URL: None
+
+PMID: 39271657
+DOI: 10.1038/s41467-024-52005-1
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11399336&blobtype=pdf
+
+PMID: 39269403
+DOI: 10.1016/j.jcyt.2024.06.011
+URL: None
+
+PMID: 39269310
+DOI: 10.1158/1078-0432.CCR-24-0060
+URL: None
+
+PMID: 39266215
+DOI: 10.1136/jitc-2024-009726
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11404285&blobtype=pdf
+
+PMID: 39257438
+DOI: 10.1093/abt/tbae022
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11384143&blobtype=pdf
+
+PMID: 39252658
+DOI: 10.1002/adma.202410340
+URL: None
+
+PMID: 39235181
+DOI: 10.1080/14728222.2024.2400075
+URL: None
+
+PMID: 39213421
+DOI: 10.1182/bloodadvances.2024013277
+URL: None
+
+PMID: 39213127
+DOI: 10.4049/jimmunol.2300372
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC7616474&blobtype=pdf
+
+PMID: 39211288
+DOI: 10.1016/j.mtbio.2024.101178
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11357865&blobtype=pdf
+
+PMID: 39201801
+DOI: 10.3390/ijms25169117
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11354974&blobtype=pdf
+
+PMID: 39201643
+DOI: 10.3390/ijms25168956
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11354933&blobtype=pdf
+
+PMID: 39197208
+DOI: 10.1016/j.jpba.2024.116431
+URL: None
+
+PMID: 39194679
+DOI: 10.3390/cimb46080462
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11352848&blobtype=pdf
+
+PMID: 39175944
+DOI: 10.1093/braincomms/fcae264
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11339711&blobtype=pdf
+
+PMID: 39169294
+DOI: 10.1186/s12885-024-12788-4
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11340040&blobtype=pdf
+
+PMID: 39167629
+DOI: 10.1016/j.jare.2023.10.009
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11380025&blobtype=pdf
+
+PMID: 39160226
+DOI: 10.1038/s41423-024-01208-z
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11442993&blobtype=pdf
+
+PMID: 39157734
+DOI: 10.2147/IJN.S461212
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11330256&blobtype=pdf
+
+PMID: 39151808
+DOI: 10.1016/j.bbcan.2024.189172
+URL: None
+
+PMID: 39138571
+DOI: 10.1186/s12943-024-02073-0
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11323699&blobtype=pdf
+
+PMID: 39135122
+DOI: 10.1186/s13046-024-03145-1
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11321182&blobtype=pdf
+
+PMID: 39131155
+DOI: 10.3389/fimmu.2024.1365946
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11310007&blobtype=pdf
+
+PMID: 39122983
+DOI: 10.1007/s12094-024-03655-6
+URL: None
+
+PMID: 39121194
+DOI: 10.1126/sciimmunol.adk9872
+URL: None
+
+PMID: 39117621
+DOI: 10.1021/acsnano.4c06471
+URL: None
+
+PMID: 39116206
+DOI: 10.1016/j.celrep.2024.114613
+URL: None
+
+PMID: 39114953
+DOI: 10.1096/fj.202400639R
+URL: None
+
+PMID: 39093821
+DOI: 10.1158/2326-6066.CIR-23-0957
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11532738&blobtype=pdf
+
+PMID: 39079025
+DOI: 10.1021/acsami.4c02926
+URL: None
+
+PMID: 39078701
+DOI: 10.1172/jci.insight.180608
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11385097&blobtype=pdf
+
+PMID: 39074350
+DOI: 10.33594/000000715
+URL: None
+
+PMID: 39069665
+DOI: 10.1021/acs.jmedchem.4c00843
+URL: None
+
+PMID: 39068587
+DOI: 10.31557/APJCP.2024.25.7.2515
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11480606&blobtype=pdf
+
+PMID: 39055004
+DOI: 10.1039/d4sc00851k
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11268508&blobtype=pdf
+
+PMID: 39054741
+DOI: 10.1002/cbin.12226
+URL: None
+
+PMID: 39040441
+DOI: 10.3389/fonc.2024.1378647
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11261161&blobtype=pdf
+
+PMID: 39039207
+DOI: 10.1038/s41418-024-01347-w
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11445524&blobtype=pdf
+
+PMID: 39039104
+DOI: 10.1038/s41598-024-66914-0
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11263553&blobtype=pdf
+
+PMID: 39038546
+DOI: 10.1016/j.jconrel.2024.07.039
+URL: None
+
+PMID: 39035202
+DOI: 10.1016/j.omton.2024.200824
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11260018&blobtype=pdf
+
+PMID: 39029230
+DOI: 10.1016/j.intimp.2024.112691
+URL: None
+
+PMID: 39027241
+DOI: 10.1016/j.apsb.2024.04.009
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11252456&blobtype=pdf
+
+PMID: 39025845
+DOI: 10.1038/s41467-024-50450-6
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11258255&blobtype=pdf
+
+PMID: 39015775
+DOI: 10.3389/fgene.2024.1406426
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11249562&blobtype=pdf
+
+PMID: 39010674
+DOI: 10.1002/acr2.11716
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11471941&blobtype=pdf
+
+PMID: 39001353
+DOI: 10.3390/cancers16132289
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11240320&blobtype=pdf
+
+PMID: 38992659
+DOI: 10.1186/s13046-024-03093-w
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11238356&blobtype=pdf
+
+PMID: 38989727
+DOI: 10.1097/MOT.0000000000001161
+URL: None
+
+PMID: 38985136
+DOI: 10.18632/oncotarget.28607
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11235132&blobtype=pdf
+
+PMID: 38983860
+DOI: 10.3389/fimmu.2024.1398508
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11231100&blobtype=pdf
+
+PMID: 38982116
+DOI: 10.1038/s41467-024-50136-z
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11233683&blobtype=pdf
+
+PMID: 38981064
+DOI: 10.1002/advs.202400695
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11425850&blobtype=pdf
+
+PMID: 38979889
+DOI: 10.7554/eLife.92679
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11233134&blobtype=pdf
+
+PMID: 38977426
+DOI: 10.1002/anie.202404889
+URL: None
+
+PMID: 38975343
+DOI: 10.3389/fimmu.2024.1403752
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11225407&blobtype=pdf
+
+PMID: 38971872
+DOI: 10.1038/s41467-024-49825-6
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11227529&blobtype=pdf
+
+PMID: 38968137
+DOI: 10.1182/bloodadvances.2023012457
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11395768&blobtype=pdf
+
+PMID: 38959336
+DOI: 10.1158/0008-5472.CAN-24-0176
+URL: None
+
+PMID: 38959154
+DOI: 10.1021/acs.molpharmaceut.4c00254
+URL: None
+
+PMID: 38957460
+DOI: 10.3389/fimmu.2024.1386561
+URL: http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11217332&blobtype=pdf
+
+PMID: 38951413
+DOI: 10.1245/s10434-024-15649-3
+URL: None
+
+PMID: 38944022
+DOI: 10.1016/j.prp.2024.155432
+URL: None
+
+PMID: 38934068
+DOI: 10.3324/haematol.2023.284795
+URL: None
+

@@ -11,7 +11,7 @@ Summaries and tables are saved in designated output folders for further use.
 ---
 
 ## Features
-
+0. **pdf downloads** : The PDF Downloader python file takes all the URLs from the input_file.txt input and finds the DOI and downloads the PDFs.
 1. **Batch Processing**: Automatically processes all PDFs in the `papers` folder.
 2. **Summarization**: Creates concise summaries for scientific papers.
 3. **Table Extraction**: Extracts results tables into CSV files (if tables exist in the PDF).

@@ -1,5 +1,5 @@
 #OPENAI_API_KEY = "insert_your_key_here"
 DATA_PATH = "data"
-PAPERS_PATH = f"{DATA_PATH}/papers"
+PAPERS_PATH = f"downloaded_papers"
 SUMMARIES_PATH = f"{DATA_PATH}/summaries"
 TABLES_PATH = f"{DATA_PATH}/tables"
